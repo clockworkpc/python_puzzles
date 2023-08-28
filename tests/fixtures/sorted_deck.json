@@ -1,0 +1,262 @@
+[
+  {
+    "colour": "black",
+    "key": "1",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "2",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "3",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "4",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "5",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "6",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "7",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "8",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "9",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "10",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "jack",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "queen",
+    "suit": "clubs"
+  },
+  {
+    "colour": "black",
+    "key": "king",
+    "suit": "clubs"
+  },
+  {
+    "colour": "red",
+    "key": "1",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "2",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "3",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "4",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "5",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "6",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "7",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "8",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "9",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "10",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "jack",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "queen",
+    "suit": "hearts"
+  },
+  {
+    "colour": "red",
+    "key": "king",
+    "suit": "hearts"
+  },
+  {
+    "colour": "black",
+    "key": "1",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "2",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "3",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "4",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "5",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "6",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "7",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "8",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "9",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "10",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "jack",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "queen",
+    "suit": "spades"
+  },
+  {
+    "colour": "black",
+    "key": "king",
+    "suit": "spades"
+  },
+  {
+    "colour": "red",
+    "key": "1",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "2",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "3",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "4",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "5",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "6",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "7",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "8",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "9",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "10",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "jack",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "queen",
+    "suit": "diamonds"
+  },
+  {
+    "colour": "red",
+    "key": "king",
+    "suit": "diamonds"
+  }
+]
